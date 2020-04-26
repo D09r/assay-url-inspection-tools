@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Privacy Policy
+Last updated: April 24, 2020
 
-You can use the [editor on GitHub](https://github.com/D09r/URL-Inspector/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+URL Inspector, a free browser extension to do web traffic analysis such as Geo-testing, Mobile-testing, HTTP Headers analysis, Whois lookup, find Subdomains, inspect Archive pages, and review Ads. The official download page of this extension (URL Inspector) for Mozilla Firefox available at Firefox Add-ons, for Google Chrome available at [Chrome Web Store](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm) and for Microsoft Edge availble at Microsoft Edge Addons.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Information Collection And Use
 
-### Markdown
+This extension will collect the data: the **tab URL**, this information is mandatory for the extension to function and those collected URLs are not retained either local or remote location.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> This extension doesn't collect, transfer, or store your personal information
 
-```markdown
-Syntax highlighted code block
+### Cookies
 
-# Header 1
-## Header 2
-### Header 3
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.
 
-- Bulleted
-- List
+> This extension doesn't use “cookies”
 
-1. Numbered
-2. List
+### Log Data
 
-**Bold** and _Italic_ and `Code` text
+Like many Websites or Apps, this extension collect information that your browser sends whenever you open this extension (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site or App that you visit, the time and date of your visit, the time spent on those pages or app and other statistics.
 
-[Link](url) and ![Image](src)
-```
+### Changes To This Privacy Policy
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This Privacy Policy is effective as of (April 24, 2020) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-### Jekyll Themes
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/D09r/URL-Inspector/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If we make any material changes to this Privacy Policy, we will notify you either through this extension or add-on updates, or by placing a prominent notice on our extension or add-on official page at [Chrome Web Store](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm) or Firefox Add-ons.
 
-### Support or Contact
+### Contact Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions about this Privacy Policy, please [contact](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm/support) us.
