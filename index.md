@@ -19,11 +19,6 @@ Microsoft Edge: [https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaaf
 * Extracted page links (both internal & external links)
 * Reverse analytics search
 
-### Become a patron
-Please consider a donation to support the ongoing development of this extension.
-
-https://www.patreon.com/d09r
-
 ### Changelog
 Version 2.2 - May 6, 2020
 - Fixed the user-agent switcher issue
@@ -60,3 +55,15 @@ Version 1.3 - Jun 30, 2018
 
 Version 1.0 - Jun 6, 2018
 - Proxy switcher
+
+### Become a patron
+Please consider a donation to support the ongoing development of this extension.
+
+[https://www.patreon.com/d09r](https://www.patreon.com/d09r)
+
+
+> Hey,
+> 
+> Thanks for using the URL inspector extension. I'd like to hear your valuable feedback. If you have any feature requests or just like this extension, then please leave a comment on the extension [review](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm/reviews/) page.
+
+#d09r
