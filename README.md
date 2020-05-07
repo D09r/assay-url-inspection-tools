@@ -1,4 +1,4 @@
-# url-inspector
+# URL Inspector
 The URL Inspector extension does an intensive analysis of any URL and provides information such as domain reputation, whois, geo-IP location, HTTP header, page links, page source, page archive, ads, and phishing & malware indications. Also, the URL Inspector extension supports proxy & user-agent switcher which helps to do geo-testing, and mobile device-testing of any websites.
 
 Mozilla Firefox: https://addons.mozilla.org/firefox/addon/url-inspector-extension<br/>
