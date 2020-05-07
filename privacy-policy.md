@@ -1,32 +1,56 @@
 ## Privacy Policy
-Last updated: April 24, 2020
+Last updated: May 1, 2020
 
-URL Inspector, a free browser extension to do web traffic analysis such as Geo-testing, Mobile-testing, HTTP Headers analysis, Whois lookup, find Subdomains, inspect Archive pages, and review Ads. The official download page of this extension (URL Inspector) for Mozilla Firefox available at Firefox Add-ons, for Google Chrome available at [Chrome Web Store](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm) and for Microsoft Edge availble at Microsoft Edge Addons.
+This Privacy Policy describes the URL Inspector’s information practices for its browser extension. We take your privacy seriously and want you to understand exactly what information this extension collects, how we use that information, and how to contact us about this policy. Please read this policy carefully, and continued use of the URL Inspector extension constitutes your consent to this policy.
 
-### Information Collection And Use
+### Information collects and use
 
-This extension will collect the data: the **tab URL**, this information is mandatory for the extension to function and those collected URLs are not retained either local or remote location.
+The "URL Inspector" extension will collect the data: the **tab URL**, this information is mandatory for the extension to function and those collected URLs are not retained either local or remote location.
 
-> This extension doesn't collect, transfer, or store your personal information
+#### Personal information
 
-### Cookies
+The "URL Inspector" extension uses storage.sync to store user data such as extension configuration. When using storage.sync, the stored data will automatically be synced to any Chrome browser that the user is logged into, provided the user has sync enabled.
 
-Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your computer’s hard drive.
+> The "URL Inspector" extension does not collect any sort of personal information
 
-> This extension doesn't use “cookies”
+#### Anonymous information
 
-### Log Data
+The "URL Inspector" does not use cookies or does not collect any sort of anonymous unique identifiable information.
 
-Like many Websites or Apps, this extension collect information that your browser sends whenever you open this extension (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site or App that you visit, the time and date of your visit, the time spent on those pages or app and other statistics.
+#### Analytics
 
-### Changes To This Privacy Policy
+The "URL Inspector" extension uses Google Analytics services to aggregate information about traffic patterns and how our extension is used. We limit the data sent to this service, and only do so to improve our extension. You can refer the Google Analytics’s privacy policy ([here](https://support.google.com/analytics/answer/6004245)) to understand their information collects and usage.
 
-This Privacy Policy is effective as of (April 24, 2020) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+### Required permissions and its purpose
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+proxy
+- requires to configure the proxy settings to do geo-proxy testing
 
-If we make any material changes to this Privacy Policy, we will notify you either through this extension or add-on updates, or by placing a prominent notice on our extension or add-on official page at [Chrome Web Store](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm) or Firefox Add-ons.
+storage
+- requires to store the user data such as extension configuration and custom proxy profiles
 
-### Contact Us
+background
+- requires to do live web traffic monitor upon user explicitly initiate it via context menu
 
-If you have any questions about this Privacy Policy, please [contact](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm/support) us.
+contextMenus
+- requires to faciliate the extension option via right-click
+
+activeTab
+- requires to obtain access to current tab URL and it will revoke upon closed the tab
+
+webRequest
+- requires to intercept the web request & response of user chosen tab and logging them for further web traffic auto-analysis in detail
+
+webRequestBlocking
+- requires for user-agent switcher feature to intercept the web request and modify the UA string to do mobile device-testing
+
+notifications
+- requires to notify the user about proxy enabled or auto-disconnect
+
+### Changes and updates to this policy
+
+The "URL Inspector" extension reserves the right to change this policy for any reason and may make small, inconsequential changes to this policy with or without notice. Each time this policy is changed we will revise the “Effective Date” at the top of this page. You should check this Privacy Policy periodically, and your continued use of this extension after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+### Contact
+
+You can always contact us with questions or feedback about this privacy policy or to report an issue via the official [support](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm/support/) page.
