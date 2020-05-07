@@ -1,11 +1,11 @@
 # URL Inspector
 The URL Inspector extension does an intensive analysis of any URL and provides information such as domain reputation, whois, geo-IP location, HTTP header, page links, page source, page archive, ads, and phishing & malware indications. Also, the URL Inspector extension supports proxy & user-agent switcher which helps to do geo-testing, and mobile device-testing of any websites.
 
-Mozilla Firefox: https://addons.mozilla.org/firefox/addon/url-inspector-extension<br/>
-Google Chrome: https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm<br/>
-Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaafpgmnnfhcjbbjjeiciij<br/>
+Mozilla Firefox: [https://addons.mozilla.org/firefox/addon/url-inspector-extension](https://addons.mozilla.org/firefox/addon/url-inspector-extension)
+Google Chrome: [https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm)
+Microsoft Edge: [https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaafpgmnnfhcjbbjjeiciij](https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaafpgmnnfhcjbbjjeiciij)
 
-#### Features
+### Features
 * Proxy switcher (geo-testing)
 * User-agent switcher (mobile device-testing)
 * Phishing and Malware detection
@@ -19,12 +19,12 @@ Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaafp
 * Extracted page links (both internal & external links)
 * Reverse analytics search
 
-#### Become a patron
+### Become a patron
 Please consider a donation to support the ongoing development of this extension.
 
 https://www.patreon.com/d09r
 
-#### Changelog
+### Changelog
 Version 2.2 - May 6, 2020
 - Fixed the user-agent switcher issue
 
