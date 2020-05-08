@@ -1,5 +1,5 @@
 # URL Inspector
-The URL Inspector extension does an intensive analysis of any URL and provides information such as domain reputation, whois, geo-IP location, HTTP header, page links, page source, page archive, ads, and phishing & malware indications. Also, the URL Inspector extension supports proxy & user-agent switcher which helps to do geo-testing, and mobile device-testing of any websites.
+The URL Inspector extension does an intensive URL analysis and provides information such as domain reputation, whois, geo-IP location, HTTP headers, page links, page source, page archive, ads, and phishing & malware indications. Primarily, this extension supports proxy & user-agent switcher which helps to do geo-testing and mobile device-testing of any websites. Overall, this extension is made for developers, testers, or Ad Ops teams to do a geo-testing, mobile device-testing, and live web request & response monitors of any websites or Ads (creatives).
 
 Mozilla Firefox: [https://addons.mozilla.org/firefox/addon/url-inspector-extension](https://addons.mozilla.org/firefox/addon/url-inspector-extension)<br/>
 Google Chrome: [https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm)<br/>
@@ -68,5 +68,5 @@ Please consider a donation to support the ongoing development of this extension.
 > Hey,
 > 
 > Thanks for using the URL inspector extension. I'd like to hear your valuable feedback. If you have any feature requests or just like this extension, then please leave a comment on the extension [review](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm/reviews/) page.
-
-#d09r
+> 
+> #d09r
