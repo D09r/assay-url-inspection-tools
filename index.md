@@ -19,6 +19,9 @@ Microsoft Edge: [https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaaf
 * Extracted page links (both internal & external links)
 * Reverse analytics search
 
+### Privacy notice
+Please refer to the privacy policy https://d09r.github.io/url-inspector/privacy-policy
+
 ### Changelog
 Version 2.2 - May 6, 2020
 - Fixed the user-agent switcher issue
