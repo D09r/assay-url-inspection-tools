@@ -20,7 +20,7 @@ Microsoft Edge: [https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaaf
 * Reverse analytics search
 
 ### Privacy notice
-Please refer to the privacy policy https://d09r.github.io/url-inspector/privacy-policy
+Please refer to the privacy policy [https://d09r.github.io/url-inspector/privacy-policy](https://d09r.github.io/url-inspector/privacy-policy)
 
 ### Changelog
 Version 2.2 - May 6, 2020
