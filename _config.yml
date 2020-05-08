@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: URL Inspector - Proxy & User-Agent Switcher
 description: The URL Inspector extension does an intensive URL analysis and supports proxy & user-agent switcher which helps to do geo-testing and mobile device-testing of any websites.
-google_analytics: [UA-74793124-4]
+google_analytics: UA-74793124-4
