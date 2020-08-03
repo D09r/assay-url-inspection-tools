@@ -1,4 +1,4 @@
-# URL Inspector
+# Assay - the URL Inspection tools
 Assay - the URL Inspection tools provide information about whois, subdomain, GeoIP, Ads, analytics, live HTTP headers, archives, reputation, malware, and much more of a website.
 
 Mozilla Firefox: [https://addons.mozilla.org/firefox/user/13209599/](https://addons.mozilla.org/firefox/user/13209599/)<br/>
