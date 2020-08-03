@@ -1,9 +1,9 @@
 # Assay - the URL Inspection tools
-Assay - the URL Inspection tools provide information about whois, subdomain, GeoIP, Ads, analytics, live HTTP headers, archives, reputation, malware, and much more of a website.
+Assay - the URL Inspection tools provide information about whois, subdomain, GeoIP, DNS, Ads, analytics, live HTTP headers, page source, page links, page archives, cookies, web crawlers (robots.txt), domain graph, domain reputation, malware, and much more of a website.
 
-Mozilla Firefox: [https://addons.mozilla.org/firefox/user/13209599/](https://addons.mozilla.org/firefox/user/13209599/)<br/>
-Google Chrome: [https://chrome.google.com/webstore/search/d09r?_category=extensions](https://chrome.google.com/webstore/search/d09r?_category=extensions)<br/>
-Microsoft Edge: [https://microsoftedge.microsoft.com/addons/search/d09r](https://microsoftedge.microsoft.com/addons/search/d09r)
+Mozilla Firefox: [https://addons.mozilla.org/firefox/addon/assay-url-inspection-tools/](https://addons.mozilla.org/firefox/addon/assay-url-inspection-tools/)<br/>
+Microsoft Edge: [https://microsoftedge.microsoft.com/addons/detail/bffbmkldeaakhfbaaldpcplegangmblc](https://microsoftedge.microsoft.com/addons/detail/bffbmkldeaakhfbaaldpcplegangmblc)<br/>
+Google Chrome: [https://chrome.google.com/webstore/detail/dpaahndfhbkiolfhjbeaocgmphmgidih](https://chrome.google.com/webstore/detail/dpaahndfhbkiolfhjbeaocgmphmgidih)
 
 ### Features
 * Live web request and response monitor (HTTP Headers)
@@ -22,6 +22,7 @@ Microsoft Edge: [https://microsoftedge.microsoft.com/addons/search/d09r](https:/
 * Inspect Ads (advertisement)
 * Inspect cookies
 * Web crawler lookup (robots.txt)
+* Export a URL Inspect results via download or copy to clipboard options
 
 ### Privacy notice
 Please refer to the privacy policy [https://d09r.github.io/assay-url-inspection-tools/privacy-policy](https://d09r.github.io/assay-url-inspection-tools/privacy-policy)
