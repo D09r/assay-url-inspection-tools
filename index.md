@@ -1,63 +1,67 @@
 # URL Inspector
-The URL Inspector extension does an intensive URL analysis and provides information such as domain reputation, whois, geo-IP location, HTTP headers, page links, page source, page archive, ads, and phishing & malware indications. Primarily, this extension supports proxy & user-agent switcher which helps to do geo-testing and mobile device-testing of any websites. Overall, this extension is made for developers, testers, or Ad Ops teams to do a geo-testing, mobile device-testing, and live web request & response monitors of any websites or Ads (creatives).
+Assay - the URL Inspection tools provide information about whois, subdomain, GeoIP, Ads, analytics, live HTTP headers, archives, reputation, malware, and much more of a website.
 
-Mozilla Firefox: [https://addons.mozilla.org/firefox/addon/url-inspector-extension](https://addons.mozilla.org/firefox/addon/url-inspector-extension)<br/>
-Google Chrome: [https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm)<br/>
-Microsoft Edge: [https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaafpgmnnfhcjbbjjeiciij](https://microsoftedge.microsoft.com/addons/detail/fnhijfcdiaaafpgmnnfhcjbbjjeiciij)
+Mozilla Firefox: [https://addons.mozilla.org/firefox/user/13209599/](https://addons.mozilla.org/firefox/user/13209599/)<br/>
+Google Chrome: [https://chrome.google.com/webstore/search/d09r?_category=extensions](https://chrome.google.com/webstore/search/d09r?_category=extensions)<br/>
+Microsoft Edge: [https://microsoftedge.microsoft.com/addons/search/d09r](https://microsoftedge.microsoft.com/addons/search/d09r)
 
 ### Features
-* Proxy switcher (geo-testing)
-* User-agent switcher (mobile device-testing)
-* Phishing and Malware detection
 * Live web request and response monitor (HTTP Headers)
-* Inspect Ads (advertisement)
-* Auto-tagging non secure, redirection, site error, privacy, malware, phishing, scam, ads, and so on
+* Scam, Phishing and Malware detection
+* Flag the potentially risky domain
+* Auto-detect the redirection, non-secure links, broken links, javascript, images, videos, privacy policy, CSP report, malware, phishing, scam, advertisement, CDN and so on
+* Website graph - an illustration to explore the domain structure and dig into relationships
 * Whois & Subdomain lookup
+* Forward and Reverse DNS lookup
 * Geo-IP lookup (IP Location lookup)
+* SafeFrame - a controlled environment to render the website
 * Page source
-* Page archives (historical screenshots)
+* Page archives (domain historical screenshots)
 * Extracted page links (both internal & external links)
 * Reverse analytics search
+* Inspect Ads (advertisement)
+* Inspect cookies
+* Web crawler lookup (robots.txt)
 
 ### Privacy notice
-Please refer to the privacy policy [https://d09r.github.io/url-inspector/privacy-policy](https://d09r.github.io/url-inspector/privacy-policy)
+Please refer to the privacy policy [https://d09r.github.io/assay-url-inspection-tools/privacy-policy](https://d09r.github.io/assay-url-inspection-tools/privacy-policy)
 
 ### Changelog
-Version 2.2 - May 6, 2020
-- Fixed the user-agent switcher issue
+Version 1.0 - Aug 3, 2020
++ Domain reputation lookup
++ Inspect cookies
++ Web crawlers lookup
 
-Version 2.1 - May 1, 2020
-- Geo-IP lookup (IP Location lookup)
-- Latest mobile devices and browsers added in user-agents switcher
-- Performance improvements
-- Privacy policy updated
+Version 0.6 - May 1, 2020
++ Forward and Reverse DNS Lookup
++ Added quick-navigation menu
++ Privacy policy updated
 
-Version 2.0 - Apr 24, 2020
-- Malware detection
-- Ads inspect (creative tester)
-- Whois & Subdomain lookup
-- Page archives (historical screenshots)
-- Extracted page links (both internal & external links)
-- Removed Safeframe
-- Removed Call chain
+Version 0.5 - Apr 19, 2020
++ Added a website-graph feature, an illustration to explore the domain structure and dig into relationships
 
-Version 1.6 - July 3, 2018
-- Live web request & response monitor (HTTP Headers)
-- Creative tester (Ads inspect)
-- Safeframe (use to test websites or ads in a controlled way)
-- Page source
-- Auto-tagging such as non-secure, redirection, scripts, iframe
-- Extracted domains list
-- More mobile devices added in user-agents switcher
-- Performance improvements
-- Privacy policy updated
+Version 0.4 - Apr 9, 2020
++ Added a feature to auto-flag the potentially risky domain
++ Performance improvements
 
-Version 1.3 - Jun 30, 2018
-- User-agent switcher
-- Auto-disabled proxy
+Version 0.3 - Apr 4, 2020
++ Malware detection using PhishTank &amp; Google's Safebrowsing
++ Privacy policy updated
 
-Version 1.0 - Jun 6, 2018
-- Proxy switcher
+Version 0.2 - Mar 30, 2020
++ Inspect Ads
++ Geo-IP lookup (IP Location lookup)
++ Page archives (historical screenshots)
+
+Version 0.1 - Mar 6, 2020
++ Live HTTP headers analysis
++ SafeFrame (use to test websites or ads in a controlled environment)
++ Auto-tagging such as non-SSL, redirection, scripts, iframe
++ Extracted domains list
++ Whois lookup
++ Subdomain enumeration
++ Page source
++ Extracted page links (both internal & external links)
 
 ### Become a patron
 Please consider a donation to support the ongoing development of this extension.
@@ -67,6 +71,6 @@ Please consider a donation to support the ongoing development of this extension.
 
 > Hey,
 > 
-> Thanks for using the URL inspector extension. I'd like to hear your valuable feedback. If you have any feature requests or just like this extension, then please leave a comment on the extension [review](https://chrome.google.com/webstore/detail/ibbejlanbkoaepocgcebajilofpnappm/reviews/) page.
+> Thanks for using the Assay extension. I'd like to hear your valuable feedback. If you have any feature requests or just like this extension, then please leave a comment on the extension [review](https://chrome.google.com/webstore/search/d09r?_category=extensions) page.
 > 
 > #d09r
