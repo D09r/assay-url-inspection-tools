@@ -1,4 +1,4 @@
-# Assay - the URL inspection tools
+# Assay - the URL Inspection tools
 Assay - the URL Inspection tools provide information about whois, subdomain, GeoIP, DNS, Ads, analytics, live HTTP headers, page source, page links, page archives, cookies, web crawlers (robots.txt), domain graph, domain reputation, malware, and much more of a website.
 
 #### Features
